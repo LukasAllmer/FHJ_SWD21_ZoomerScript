@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/ZoomerScript.Console/ZoomerScript.Console.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/ZoomerScript.sandbox/ZoomerScript.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/ZoomerScript/ZoomerScript.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/GPL_ZoomerScript_AllmerLukas.build/GPL_ZoomerScript_AllmerLukas.build.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
